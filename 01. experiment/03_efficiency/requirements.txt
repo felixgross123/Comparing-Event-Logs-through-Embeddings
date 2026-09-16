@@ -1,0 +1,16 @@
+# Dependencies of timing_benchmark.py.
+#
+# torch: install the build that matches the cluster's CUDA runtime, e.g.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+# The plain "torch" below pulls the default wheel, which is CUDA-enabled on Linux.
+torch
+
+# event log reading (XES) and the DataFrame handling behind it
+pm4py
+r4pm
+pyarrow
+
+# Earth Mover's Stochastic Conformance
+ebi-pm
+polars
+PuLP

@@ -1,0 +1,2 @@
+L1,L2,shared acts,total acts,sim min,sim q10 (shifted <=),sim median,sim q90 (stable >=),sim max,# shifted,# stable,EMSC shifted,EMSC stable,EMSC delta,stable > shifted,win rate %,# failed
+BPIC18_D6b,BPIC18_De7,41,41,0.2813483476638794,0.6558111906051636,0.852184534072876,0.9672554135322571,0.9869546890258789,5,4,0.6186478093586701,0.9102615030381435,0.2916136936794733,19/20,95.0,1

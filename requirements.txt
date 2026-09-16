@@ -1,0 +1,14 @@
+ipykernel
+numpy
+pandas
+jinja2
+matplotlib
+tqdm
+torch
+IProgress
+ipywidgets
+pm4py
+r4pm
+polars
+pyarrow
+ebi-pm

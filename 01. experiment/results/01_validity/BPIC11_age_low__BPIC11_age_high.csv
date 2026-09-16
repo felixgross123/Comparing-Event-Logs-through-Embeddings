@@ -1,0 +1,2 @@
+L1,L2,shared acts,total acts,sim min,sim q10 (shifted <=),sim median,sim q90 (stable >=),sim max,# shifted,# stable,EMSC shifted,EMSC stable,EMSC delta,stable > shifted,win rate %,# failed
+BPIC11_age_low,BPIC11_age_high,367,624,-0.10734768211841583,0.37995076179504395,0.6741407513618469,0.9525852203369141,0.9934695959091187,37,37,0.2529279279279279,0.7718433997553885,0.5189154718274607,1368/1369,99.92695398100804,0

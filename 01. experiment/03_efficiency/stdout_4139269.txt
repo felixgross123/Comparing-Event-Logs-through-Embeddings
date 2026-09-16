@@ -1,0 +1,109 @@
+[INFO] Module Python/3.12.3 loaded.
+[INFO] Module CUDA/12.6.3 loaded.
+== installing dependencies ==
+== job 4139269 on n23g0004.hpc.itc.rwth-aachen.de, Wed Sep 16 06:58:51 AM CEST 2026 ==
+== Python 3.12.3 from /rwthfs/rz/cluster/home/nlu31260/.venv/bin/python, 4 CPU threads ==
+NVIDIA H100, 95830 MiB, 580.178.04
+torch 2.13.0+cu130 | cuda available: True
+== running the benchmark ==
+
+[93m============================================================[0m
+
+  Welcome to [96mPM4Py[0m — Community Version
+  Open-Source License (AGPL v3)
+
+  📚 Docs & Examples:
+     https://processintelligence.solutions/pm4py
+
+  ⚖️  [93mLicense: AGPL v3 — Commercial use requires open-sourcing your application.[0m
+     Business use without open-sourcing? A commercial license is available:
+     https://processintelligence.solutions/pm4py#licensing
+
+[93m============================================================[0m
+
+CWINDOW embeddings (CPU vs GPU), per log pair
+machine:  n23g0004.hpc.itc.rwth-aachen.de | Linux-5.14.0-687.41.1.el9_8.x86_64-x86_64-with-glibc2.34
+torch:    2.13.0+cu130 | cpu device 'cpu' | gpu device 'cuda'
+settings: c = 4, d = 32, unit_norm = True, balance_compass = True, seed = 42
+GPU:      NVIDIA H100
+
+schedule per pair (lr x epochs)
+pair                                        compass         per-log
+BPIC11_age_low vs BPIC11_age_high       0.01 x 1500      0.01 x 500
+BPIC15_M1 vs BPIC15_M2                  0.01 x 1500      0.01 x 500
+BPIC15_M1 vs BPIC15_M3                  0.01 x 1500      0.01 x 500
+BPIC15_M1 vs BPIC15_M4                  0.01 x 1500      0.01 x 500
+BPIC15_M1 vs BPIC15_M5                  0.01 x 1500      0.01 x 500
+BPIC15_M2 vs BPIC15_M3                  0.01 x 1500      0.01 x 500
+BPIC15_M2 vs BPIC15_M4                  0.01 x 1500      0.01 x 500
+BPIC15_M2 vs BPIC15_M5                  0.01 x 1500      0.01 x 500
+BPIC15_M3 vs BPIC15_M4                  0.01 x 1500      0.01 x 500
+BPIC15_M3 vs BPIC15_M5                  0.01 x 1500      0.01 x 500
+BPIC15_M4 vs BPIC15_M5                  0.01 x 1500      0.01 x 500
+BPIC18_D4e vs BPIC18_D6b                0.01 x 1000      0.01 x 500
+BPIC18_D4e vs BPIC18_Dd4                0.01 x 1000      0.01 x 500
+BPIC18_D4e vs BPIC18_De7                0.01 x 1000      0.01 x 500
+BPIC18_D6b vs BPIC18_Dd4                0.01 x 1000      0.01 x 500
+BPIC18_D6b vs BPIC18_De7                0.01 x 1000      0.01 x 500
+BPIC18_Dd4 vs BPIC18_De7                0.01 x 1000      0.01 x 500
+
+reading the logs ...
+/rwthfs/rz/cluster/home/nlu31260/.venv/lib/python3.12/site-packages/pm4py/utils.py:1005: UserWarning: In the current version, the import/export operation uses `r4pm` by default for importing/exporting files faster.
+  warnings.warn(
+  BPIC11_age_low: 603 cases, 82928 events, 533 activities, from concept:name (preprocessed)
+  BPIC11_age_high: 540 cases, 67363 events, 458 activities, from concept:name (preprocessed)
+  BPIC15_M1: 1199 cases, 52217 events, 289 activities, from concept:name (preprocessed)
+  BPIC15_M2: 832 cases, 44354 events, 304 activities, from concept:name (preprocessed)
+  BPIC15_M3: 1409 cases, 59681 events, 277 activities, from concept:name (preprocessed)
+  BPIC15_M4: 1053 cases, 47293 events, 272 activities, from concept:name (preprocessed)
+  BPIC15_M5: 1156 cases, 59083 events, 285 activities, from concept:name (preprocessed)
+  BPIC18_D4e: 13639 cases, 735363 events, 40 activities, from concept:name (preprocessed)
+  BPIC18_D6b: 11256 cases, 648709 events, 41 activities, from concept:name (preprocessed)
+  BPIC18_Dd4: 5744 cases, 393265 events, 41 activities, from concept:name (preprocessed)
+  BPIC18_De7: 13170 cases, 736929 events, 41 activities, from concept:name (preprocessed)
+CWINDOW (seconds)
+pair                               device     compass  retrain A  retrain B     total
+BPIC11_age_low vs BPIC11_age_high  cpu         136.82      23.22      18.28    178.31
+BPIC15_M1 vs BPIC15_M2             cpu          87.55      12.36      12.44    112.35
+BPIC15_M1 vs BPIC15_M3             cpu          82.40      12.34      11.97    106.71
+BPIC15_M1 vs BPIC15_M4             cpu          73.57      11.85      10.00     95.41
+BPIC15_M1 vs BPIC15_M5             cpu          91.30      12.10      13.52    116.92
+BPIC15_M2 vs BPIC15_M3             cpu          85.72      12.50      12.18    110.40
+BPIC15_M2 vs BPIC15_M4             cpu          77.01      12.38      10.24     99.63
+BPIC15_M2 vs BPIC15_M5             cpu          90.97      12.84      14.53    118.35
+BPIC15_M3 vs BPIC15_M4             cpu          71.67      11.69       9.83     93.18
+BPIC15_M3 vs BPIC15_M5             cpu          90.26      11.83      13.33    115.43
+BPIC15_M4 vs BPIC15_M5             cpu          80.33      10.22      13.54    104.09
+BPIC18_D4e vs BPIC18_D6b           cpu          12.93       4.42       4.29     21.63
+BPIC18_D4e vs BPIC18_Dd4           cpu          12.32       4.30       3.84     20.45
+BPIC18_D4e vs BPIC18_De7           cpu          14.07       4.24       4.97     23.27
+BPIC18_D6b vs BPIC18_Dd4           cpu          12.30       4.24       4.05     20.59
+BPIC18_D6b vs BPIC18_De7           cpu          13.93       4.23       4.95     23.11
+BPIC18_Dd4 vs BPIC18_De7           cpu          13.76       3.86       4.96     22.59
+BPIC11_age_low vs BPIC11_age_high  gpu           4.92       0.75       0.53      6.19
+BPIC15_M1 vs BPIC15_M2             gpu           2.25       0.44       0.44      3.13
+BPIC15_M1 vs BPIC15_M3             gpu           2.23       0.44       0.44      3.10
+BPIC15_M1 vs BPIC15_M4             gpu           2.02       0.43       0.43      2.88
+BPIC15_M1 vs BPIC15_M5             gpu           2.38       0.44       0.46      3.29
+BPIC15_M2 vs BPIC15_M3             gpu           2.15       0.58       0.43      3.16
+BPIC15_M2 vs BPIC15_M4             gpu           2.02       0.44       0.46      2.92
+BPIC15_M2 vs BPIC15_M5             gpu           2.39       0.44       0.46      3.29
+BPIC15_M3 vs BPIC15_M4             gpu           1.97       0.44       0.43      2.85
+BPIC15_M3 vs BPIC15_M5             gpu           2.31       0.43       0.45      3.19
+BPIC15_M4 vs BPIC15_M5             gpu           2.08       0.45       0.46      2.99
+BPIC18_D4e vs BPIC18_D6b           gpu           1.33       0.57       0.56      2.45
+BPIC18_D4e vs BPIC18_Dd4           gpu           1.13       0.57       0.51      2.21
+BPIC18_D4e vs BPIC18_De7           gpu           1.20       0.56       0.57      2.33
+BPIC18_D6b vs BPIC18_Dd4           gpu           1.14       0.70       0.51      2.35
+BPIC18_D6b vs BPIC18_De7           gpu           1.19       0.56       0.58      2.33
+BPIC18_Dd4 vs BPIC18_De7           gpu           1.16       0.51       0.58      2.25
+  cpu BPIC11: 178.31s for 1 pair (178.31s per pair)
+  cpu BPIC15: 1072.47s for 10 pairs (107.25s per pair)
+  cpu BPIC18: 131.65s for 6 pairs (21.94s per pair)
+  gpu BPIC11: 6.19s for 1 pair (6.19s per pair)
+  gpu BPIC15: 30.79s for 10 pairs (3.08s per pair)
+  gpu BPIC18: 13.92s for 6 pairs (2.32s per pair)
+
+
+written to /rwthfs/rz/cluster/home/nlu31260/timing_results.txt
+== done: /rwthfs/rz/cluster/home/nlu31260/timing_results.txt ==

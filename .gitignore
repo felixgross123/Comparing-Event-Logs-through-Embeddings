@@ -1,0 +1,22 @@
+# environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.pip-cache/
+
+# editor and OS
+.vscode/
+.idea/
+.DS_Store
+
+# tooling config
+ruff.toml
+
+# event logs (2.8 GB, downloaded from the BPI Challenge sites)
+01. experiment/logs/
+01. experiment/03_efficiency/logs/
+*.xes

@@ -1,0 +1,1172 @@
+case:concept:name,concept:name,time:timestamp,case:in_time,case:finished,case:incomplete_data,case:transferred,case:entry_year,case:gender,case:nationality,case:preference,case:special_access,case:admission_type,case:high_school_graduation_year,case:high_school_grades,case:high_school_rank,case:language_score,case:math_score,case:social_sciences_score,case:natural_sciences_score,case:high_school_plan_type,case:high_school_type_program,case:high_school_type_funding,case:region,case:city,case:district
+FING-10093,Cal 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Alg 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Phy 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Std Methods (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Intro Eng (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,IPD Workshop (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Fund Progr (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Phy 2 (fail),2018/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Chemistry (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Cal 2 (fail),2018/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Alg 2 (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Cal 2 (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Progr Methd (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Fund Econ (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Phy 2 (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Eff Comm (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Elect & Mag (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Progr Parad (fail),2019/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Algorithms (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Stat Analys (fail),2019/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Diff Ec & Num Meth (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Eng 1 (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Comp Struc (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Stat Analys (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Progr Parad (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Proj Eval&Manag (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Inf & Soc (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Eng 2 (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Comp Org (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Eng 3 (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,DB Design (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,SoftEng Fund (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Syst Eng (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Inf Sys (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,DB Workshop (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Inf Adm & Manag (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Op Sys (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Comp Net (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Eng 4 (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Elective (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Seminar (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,SoftEng Technq (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Elective (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Elective (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,SoftEng Proj (pass),2022/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10093,Deg Work (pass),2022/1,True,True,False,no,2018,2,chilean,1,,1,2015,medium,low,high,high,,medium,1,0,3,5,99,19
+FING-10294,Cal 1 (pass),2018/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Alg 1 (pass),2018/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Phy 1 (pass),2018/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Std Methods (pass),2018/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Intro Eng (pass),2018/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,IPD Workshop (pass),2018/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Fund Progr (pass),2018/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Phy 2 (pass),2018/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Chemistry (pass),2018/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Cal 2 (pass),2018/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Alg 2 (pass),2018/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Eff Comm (pass),2018/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Stat Analys (pass),2019/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Diff Ec & Num Meth (pass),2019/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Progr Methd (pass),2019/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Eng 1 (pass),2019/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Elect & Mag (pass),2019/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Progr Parad (pass),2019/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Algorithms (pass),2019/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Syst Eng (pass),2019/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Comp Struc (pass),2019/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Fund Econ (pass),2019/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Eng 2 (pass),2019/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,DB Design (pass),2020/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Comp Org (pass),2020/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,SoftEng Fund (pass),2020/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Proj Eval&Manag (pass),2020/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Inf & Soc (pass),2020/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Inf Sys (pass),2020/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Eng 3 (pass),2020/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,DB Workshop (pass),2020/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Eng 4 (pass),2020/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Comp Net (pass),2020/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Elective (pass),2020/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,SoftEng Technq (pass),2020/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Op Sys (pass),2020/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Inf Adm & Manag (pass),2020/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Seminar (pass),2021/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,SoftEng Proj (pass),2021/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Elective (pass),2021/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Elective (pass),2021/1,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-10294,Deg Work (pass),2021/2,True,True,False,no,2018,2,chilean,4,academic excellence,2,2017,low,low,medium,high,,high,1,0,3,13,114,80
+FING-11716,Alg 1 (pass),2019/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Phy 1 (pass),2019/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Cal 1 (pass),2019/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Std Methods (pass),2019/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,IPD Workshop (pass),2019/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Intro Eng (pass),2019/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Fund Progr (pass),2019/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Chemistry (pass),2019/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Phy 2 (pass),2019/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Cal 2 (pass),2019/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Alg 2 (pass),2019/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Progr Methd (pass),2020/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Stat Analys (pass),2020/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Eng 1 (pass),2020/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Diff Ec & Num Meth (pass),2020/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Eff Comm (pass),2020/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Elect & Mag (pass),2020/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Progr Parad (pass),2020/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Algorithms (pass),2020/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Comp Struc (pass),2020/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Eng 2 (pass),2020/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Fund Econ (pass),2020/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Syst Eng (pass),2020/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Proj Eval&Manag (pass),2021/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Comp Org (pass),2021/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,DB Design (pass),2021/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Inf Sys (pass),2021/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Eng 3 (pass),2021/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Inf & Soc (pass),2021/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,SoftEng Fund (pass),2021/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,SoftEng Technq (pass),2021/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Comp Net (pass),2021/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Inf Adm & Manag (pass),2021/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Op Sys (pass),2021/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,DB Workshop (pass),2021/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Eng 4 (pass),2021/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Elective (pass),2022/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Elective (pass),2022/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Seminar (pass),2022/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,SoftEng Proj (pass),2022/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Elective (pass),2022/1,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11716,Deg Work (pass),2022/2,True,True,False,no,2019,2,chilean,4,academic excellence,1,2018,medium,medium,medium,medium,medium,high,1,0,3,13,114,102
+FING-11758,Alg 1 (pass),2019/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Phy 1 (pass),2019/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Cal 1 (pass),2019/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Std Methods (pass),2019/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,IPD Workshop (pass),2019/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Intro Eng (pass),2019/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Fund Progr (pass),2019/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Chemistry (pass),2019/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Phy 2 (pass),2019/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Cal 2 (pass),2019/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Alg 2 (pass),2019/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Eff Comm (pass),2019/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Progr Methd (pass),2020/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Stat Analys (pass),2020/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Eng 1 (pass),2020/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Diff Ec & Num Meth (pass),2020/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Elect & Mag (pass),2020/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Progr Parad (pass),2020/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Algorithms (pass),2020/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Comp Struc (pass),2020/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Fund Econ (pass),2020/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Syst Eng (pass),2020/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Eng 2 (pass),2020/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Proj Eval&Manag (pass),2021/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Comp Org (pass),2021/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,DB Design (pass),2021/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Inf Sys (pass),2021/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Eng 3 (pass),2021/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Inf & Soc (pass),2021/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,SoftEng Fund (pass),2021/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Op Sys (pass),2021/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,SoftEng Technq (pass),2021/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Comp Net (pass),2021/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Inf Adm & Manag (pass),2021/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,DB Workshop (pass),2021/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Eng 4 (pass),2021/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Elective (pass),2022/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Elective (pass),2022/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Seminar (pass),2022/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,SoftEng Proj (pass),2022/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Elective (pass),2022/1,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-11758,Deg Work (pass),2022/2,True,True,False,no,2019,2,chilean,2,,1,2018,medium,low,medium,high,,high,1,0,2,13,114,76
+FING-15462,IPD Workshop (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Intro Eng (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Cal 1 (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Alg 1 (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Phy 1 (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Std Methods (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Phy 2 (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Fund Progr (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Chemistry (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Cal 2 (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Alg 2 (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Stat Analys (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Diff Ec & Num Meth (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Eng 1 (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Eff Comm (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Elect & Mag (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Progr Methd (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Eng 2 (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Comp Struc (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Syst Eng (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Fund Econ (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Progr Parad (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Algorithms (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Proj Eval&Manag (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Inf Sys (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Eng 3 (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Comp Org (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,DB Design (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Inf & Soc (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Op Sys (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Eng 4 (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Inf Adm & Manag (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,SoftEng Fund (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,DB Workshop (pass),2015/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,SoftEng Technq (pass),2015/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Comp Net (pass),2015/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Elective (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Elective (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Elective (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,SoftEng Proj (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Seminar (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-15462,Deg Work (pass),2016/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-1784,Std Methods (pass),2014/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Progr Methd (pass),2014/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Stat Analys (fail),2014/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,IPD Workshop (pass),2014/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Eng 1 (pass),2014/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Progr Parad (pass),2014/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Stat Analys (fail),2014/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Diff Ec & Num Meth (pass),2014/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Algorithms (fail),2014/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Eff Comm (pass),2014/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,SoftEng Fund (pass),2015/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Stat Analys (fail),2015/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Eng 2 (pass),2015/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Algorithms (pass),2015/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Inf & Soc (pass),2015/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Stat Analys (pass),2015/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Eng 3 (pass),2015/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Comp Struc (fail),2015/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,DB Design (fail),2016/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Syst Eng (pass),2016/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Eng 4 (pass),2016/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Proj Eval&Manag (pass),2016/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Comp Struc (pass),2016/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,SoftEng Technq (pass),2016/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Inf Sys (pass),2016/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Inf Adm & Manag (pass),2016/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,DB Design (pass),2016/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Comp Org (fail),2016/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,DB Workshop (pass),2017/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Comp Net (pass),2017/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Comp Org (fail),2017/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Op Sys (pass),2017/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Elective (pass),2018/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Seminar (pass),2018/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Elective (pass),2018/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Comp Org (pass),2018/1,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Deg Work (pass),2018/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,SoftEng Proj (pass),2018/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1784,Elective (pass),2018/2,True,True,False,no,2014,1,,,,,,,,,,,,,,,,,
+FING-1794,Eng 2 (pass),2014/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Cal 2 (fail),2014/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Alg 1 (pass),2014/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Phy 2 (pass),2014/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Intro Eng (pass),2014/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Fund Progr (pass),2015/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Eng 3 (pass),2015/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Inf & Soc (pass),2015/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Cal 2 (fail),2015/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Alg 2 (pass),2015/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Fund Econ (pass),2015/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Progr Methd (pass),2015/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Cal 2 (pass),2015/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Eng 4 (pass),2015/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Algorithms (pass),2016/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Elect & Mag (pass),2016/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Stat Analys (fail),2016/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Diff Ec & Num Meth (pass),2016/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Comp Struc (pass),2016/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Progr Parad (pass),2016/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Proj Eval&Manag (pass),2016/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Stat Analys (pass),2016/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,SoftEng Fund (pass),2017/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Syst Eng (pass),2017/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Elective (pass),2017/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Comp Org (pass),2017/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,DB Design (pass),2017/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Inf Adm & Manag (pass),2017/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,SoftEng Technq (pass),2017/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Op Sys (pass),2017/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,DB Workshop (pass),2017/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Inf Sys (pass),2017/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Comp Net (pass),2017/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,SoftEng Proj (pass),2018/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Elective (pass),2018/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Elective (pass),2018/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Seminar (pass),2018/1,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-1794,Deg Work (pass),2018/2,True,True,False,no,2014,2,,,,,,,,,,,,,,,,,
+FING-18317,Phy 1 (pass),2013/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Alg 1 (pass),2013/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Cal 1 (fail),2013/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Intro Eng (pass),2013/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Std Methods (pass),2013/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,IPD Workshop (pass),2013/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Fund Progr (pass),2013/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Phy 2 (pass),2013/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Alg 2 (pass),2013/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Chemistry (pass),2013/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Cal 1 (pass),2013/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Eng 1 (pass),2014/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Progr Methd (pass),2014/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Algorithms (pass),2014/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Fund Econ (pass),2014/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Cal 2 (pass),2014/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Elect & Mag (pass),2014/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Eng 2 (pass),2014/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Progr Parad (pass),2014/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Stat Analys (pass),2014/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Diff Ec & Num Meth (pass),2014/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Eff Comm (pass),2014/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,SoftEng Fund (pass),2015/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Syst Eng (pass),2015/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Inf & Soc (pass),2015/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Comp Struc (pass),2015/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,DB Design (pass),2015/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Comp Org (pass),2015/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Eng 3 (pass),2015/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,SoftEng Technq (pass),2015/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,DB Workshop (pass),2015/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Proj Eval&Manag (pass),2015/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Op Sys (pass),2016/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Inf Adm & Manag (pass),2016/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Eng 4 (pass),2016/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Inf Sys (pass),2016/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Comp Net (pass),2016/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Elective (pass),2016/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Seminar (pass),2016/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Elective (pass),2016/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,SoftEng Proj (pass),2016/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Elective (pass),2016/2,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-18317,Deg Work (pass),2017/1,True,True,False,no,2013,1,chilean,3,,1,2011,low,low,medium,high,,high,,0,4,13,114,93
+FING-20914,Phy 1 (pass),2013/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Alg 1 (pass),2013/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Cal 1 (pass),2013/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Intro Eng (pass),2013/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Std Methods (pass),2013/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,IPD Workshop (pass),2013/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Fund Progr (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Alg 2 (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Phy 2 (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Chemistry (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Cal 2 (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Stat Analys (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Diff Ec & Num Meth (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Eff Comm (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Eng 1 (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Progr Methd (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Elect & Mag (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Eng 2 (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Progr Parad (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Syst Eng (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Fund Econ (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Algorithms (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Comp Struc (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Comp Org (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,SoftEng Fund (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Eng 3 (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Proj Eval&Manag (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Inf & Soc (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Inf Sys (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,DB Design (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Eng 4 (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Op Sys (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Inf Adm & Manag (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,SoftEng Technq (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,DB Workshop (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Comp Net (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Seminar (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Elective (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Elective (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Elective (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,SoftEng Proj (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-20914,Deg Work (pass),2016/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-23404,IPD Workshop (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Cal 1 (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Alg 1 (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Phy 1 (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Intro Eng (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Std Methods (pass),2012/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Phy 2 (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Fund Progr (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Chemistry (fail),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Cal 2 (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Alg 2 (pass),2012/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Chemistry (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Eff Comm (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Eng 1 (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Stat Analys (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Diff Ec & Num Meth (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Progr Methd (pass),2013/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Eng 2 (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Syst Eng (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Fund Econ (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Algorithms (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Progr Parad (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Elect & Mag (pass),2013/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Proj Eval&Manag (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Inf Sys (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Eng 3 (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Comp Struc (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,DB Design (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Inf & Soc (pass),2014/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Eng 4 (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Inf Adm & Manag (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,SoftEng Fund (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Comp Org (pass),2014/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Op Sys (pass),2015/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,DB Workshop (pass),2015/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,SoftEng Technq (pass),2015/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Comp Net (pass),2015/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Elective (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Elective (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Elective (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,SoftEng Proj (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Seminar (pass),2015/2,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-23404,Deg Work (pass),2016/1,True,True,False,no,2012,2,,,,,,,,,,,,,,,,,
+FING-24950,Phy 1 (pass),2013/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Cal 1 (pass),2013/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Std Methods (pass),2013/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Intro Eng (pass),2013/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,IPD Workshop (pass),2013/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Alg 1 (pass),2013/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Fund Progr (pass),2013/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Chemistry (pass),2013/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Phy 2 (pass),2013/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Cal 2 (pass),2013/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Alg 2 (pass),2013/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Stat Analys (pass),2014/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Diff Ec & Num Meth (pass),2014/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Eff Comm (pass),2014/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Eng 1 (pass),2014/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Progr Methd (pass),2014/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Elect & Mag (fail),2014/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Eng 2 (pass),2014/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Elect & Mag (pass),2014/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Fund Econ (pass),2014/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Progr Parad (fail),2014/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Algorithms (fail),2014/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Syst Eng (pass),2014/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Progr Parad (pass),2015/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Algorithms (pass),2015/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Proj Eval&Manag (pass),2015/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Inf & Soc (pass),2015/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Inf Sys (pass),2015/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Comp Struc (fail),2015/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Inf Adm & Manag (pass),2015/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Eng 3 (pass),2015/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,SoftEng Fund (pass),2015/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Comp Struc (pass),2015/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,DB Design (pass),2015/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,DB Workshop (pass),2016/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Eng 4 (pass),2016/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Comp Org (pass),2016/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,SoftEng Technq (pass),2016/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Op Sys (pass),2016/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Seminar (pass),2016/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Comp Net (pass),2016/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,SoftEng Proj (pass),2016/2,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Elective (pass),2017/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Elective (pass),2017/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Elective (pass),2017/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-24950,Deg Work (pass),2017/1,True,True,False,no,2013,1,chilean,1,,1,2009,low,low,medium,high,,medium,,0,3,13,114,80
+FING-25910,Alg 2 (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Phy 1 (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,IPD Workshop (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Intro Eng (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Std Methods (pass),2013/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Diff Ec & Num Meth (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Eng 1 (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Progr Methd (fail),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Chemistry (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Phy 2 (pass),2014/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Eng 2 (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Elect & Mag (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Progr Methd (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Fund Econ (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Stat Analys (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Eff Comm (pass),2014/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Syst Eng (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Eng 3 (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Algorithms (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Inf & Soc (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Comp Struc (pass),2015/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Eng 4 (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Comp Org (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Progr Parad (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Proj Eval&Manag (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Inf Sys (pass),2015/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Op Sys (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Inf Adm & Manag (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,DB Design (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,SoftEng Fund (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Elective (pass),2016/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Comp Net (pass),2016/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,SoftEng Technq (pass),2016/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,DB Workshop (pass),2016/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Elective (pass),2017/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Elective (pass),2017/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,SoftEng Proj (pass),2017/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Seminar (pass),2017/1,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-25910,Deg Work (pass),2017/2,True,True,False,no,2013,2,,,,,,,,,,,,,,,,,
+FING-3244,Cal 1 (pass),2018/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Alg 1 (pass),2018/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Phy 1 (pass),2018/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Std Methods (pass),2018/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Intro Eng (pass),2018/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,IPD Workshop (pass),2018/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Fund Progr (pass),2018/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Phy 2 (pass),2018/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Chemistry (pass),2018/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Cal 2 (pass),2018/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Alg 2 (pass),2018/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Eff Comm (pass),2018/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Stat Analys (pass),2019/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Diff Ec & Num Meth (pass),2019/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Progr Methd (pass),2019/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Eng 1 (pass),2019/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Elect & Mag (pass),2019/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Progr Parad (pass),2019/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Algorithms (pass),2019/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Syst Eng (pass),2019/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Fund Econ (pass),2019/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Eng 2 (pass),2019/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Comp Struc (pass),2019/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,DB Design (pass),2020/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Comp Org (pass),2020/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,SoftEng Fund (pass),2020/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Proj Eval&Manag (pass),2020/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Inf & Soc (pass),2020/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Inf Sys (pass),2020/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Eng 3 (pass),2020/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,DB Workshop (pass),2020/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Eng 4 (pass),2020/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Comp Net (pass),2020/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,SoftEng Technq (pass),2020/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Op Sys (pass),2020/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Inf Adm & Manag (pass),2020/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Seminar (pass),2021/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,SoftEng Proj (pass),2021/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Elective (pass),2021/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Elective (pass),2021/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Elective (pass),2021/1,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3244,Deg Work (pass),2021/2,True,True,False,no,2018,2,,,,,,,,,,,,,,,,,
+FING-3418,Intro Eng (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,IPD Workshop (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Std Methods (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Phy 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Cal 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Alg 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Fund Progr (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Cal 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Chemistry (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Alg 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Phy 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Eng 1 (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Progr Methd (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Elect & Mag (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Stat Analys (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Eff Comm (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Diff Ec & Num Meth (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Comp Struc (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Syst Eng (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Progr Parad (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Algorithms (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Fund Econ (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Eng 2 (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Proj Eval&Manag (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,DB Design (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Comp Org (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Eng 3 (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,SoftEng Fund (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Op Sys (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Eng 4 (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,DB Workshop (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Inf & Soc (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Inf Sys (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Comp Net (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Elective (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Seminar (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Inf Adm & Manag (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,SoftEng Technq (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Elective (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Elective (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,Deg Work (pass),2018/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3418,SoftEng Proj (pass),2018/2,True,True,False,no,2015,2,chilean,1,,1,2014,high,high,high,high,,high,2,0,3,13,114,89
+FING-3427,Intro Eng (pass),2015/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,IPD Workshop (pass),2015/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Std Methods (pass),2015/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Phy 1 (pass),2015/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Cal 1 (pass),2015/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Alg 1 (pass),2015/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Fund Progr (pass),2015/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Alg 2 (fail),2015/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Chemistry (pass),2015/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Cal 2 (fail),2015/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Phy 2 (pass),2015/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Eff Comm (pass),2016/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Progr Methd (pass),2016/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Eng 1 (pass),2016/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Alg 2 (pass),2016/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Cal 2 (pass),2016/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Algorithms (pass),2016/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Elect & Mag (pass),2016/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Eng 2 (pass),2016/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Stat Analys (pass),2016/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Diff Ec & Num Meth (pass),2016/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Progr Parad (pass),2017/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Fund Econ (pass),2017/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Eng 3 (pass),2017/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Syst Eng (pass),2017/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Comp Struc (pass),2017/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Inf & Soc (pass),2017/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Eng 4 (pass),2017/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,SoftEng Fund (pass),2017/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Proj Eval&Manag (pass),2017/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,DB Design (pass),2017/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Comp Org (pass),2017/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Op Sys (pass),2018/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,DB Workshop (pass),2018/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Comp Net (pass),2018/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Inf Sys (pass),2018/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Inf Adm & Manag (pass),2018/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,SoftEng Technq (pass),2018/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Elective (pass),2018/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,SoftEng Proj (pass),2018/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Elective (pass),2018/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Seminar (pass),2018/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Elective (pass),2018/2,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3427,Deg Work (pass),2019/1,True,True,False,no,2015,2,chilean,3,,1,2014,low,low,high,high,,high,1,0,2,13,114,76
+FING-3428,Intro Eng (pass),2015/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,IPD Workshop (pass),2015/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Std Methods (pass),2015/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Phy 1 (pass),2015/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Cal 1 (pass),2015/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Alg 1 (pass),2015/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Fund Progr (pass),2015/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Alg 2 (pass),2015/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Cal 2 (pass),2015/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Phy 2 (pass),2015/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Chemistry (pass),2015/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Eff Comm (pass),2015/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Progr Methd (pass),2016/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Eng 1 (pass),2016/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Elect & Mag (pass),2016/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Stat Analys (pass),2016/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Diff Ec & Num Meth (fail),2016/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Comp Struc (pass),2016/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Syst Eng (pass),2016/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Progr Parad (pass),2016/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Diff Ec & Num Meth (pass),2016/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Fund Econ (pass),2016/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Eng 2 (pass),2016/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Algorithms (pass),2017/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,SoftEng Fund (pass),2017/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Proj Eval&Manag (pass),2017/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Inf Sys (pass),2017/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Comp Org (pass),2017/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Eng 3 (pass),2017/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Inf & Soc (pass),2017/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Inf Adm & Manag (pass),2017/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,SoftEng Technq (pass),2017/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Op Sys (fail),2017/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Comp Net (pass),2017/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,DB Design (pass),2017/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Eng 4 (pass),2018/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Op Sys (pass),2018/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Elective (pass),2018/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Elective (pass),2018/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,DB Workshop (pass),2018/1,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,SoftEng Proj (pass),2018/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Seminar (pass),2018/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Elective (pass),2018/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3428,Deg Work (pass),2019/2,True,True,False,no,2015,1,chilean,2,academic excellence,1,2014,medium,medium,medium,low,medium,medium,2,0,3,13,88,102
+FING-3433,Intro Eng (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,IPD Workshop (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Std Methods (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Phy 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Cal 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Alg 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Fund Progr (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Chemistry (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Cal 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Alg 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Phy 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Progr Methd (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Elect & Mag (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Eng 1 (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Stat Analys (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Eff Comm (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Diff Ec & Num Meth (pass),2016/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Fund Econ (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Syst Eng (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Comp Struc (fail),2016/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Progr Parad (fail),2016/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Eng 2 (pass),2016/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Proj Eval&Manag (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Inf Sys (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Progr Parad (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,DB Design (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Comp Struc (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Inf & Soc (pass),2017/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,SoftEng Fund (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Inf Adm & Manag (fail),2017/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Elective (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Eng 3 (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Comp Org (pass),2017/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Eng 4 (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Op Sys (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Comp Net (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,DB Workshop (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Inf Adm & Manag (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,SoftEng Technq (pass),2018/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Elective (pass),2018/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,SoftEng Proj (pass),2018/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Seminar (pass),2018/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Elective (pass),2018/2,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3433,Deg Work (pass),2019/1,True,True,False,no,2015,2,chilean,1,,1,2011,medium,low,high,high,,medium,1,0,3,13,114,68
+FING-3453,Intro Eng (pass),2015/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,IPD Workshop (pass),2015/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Std Methods (pass),2015/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Phy 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Cal 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Alg 1 (pass),2015/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Fund Progr (pass),2015/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Alg 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Cal 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Phy 2 (pass),2015/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Chemistry (pass),2015/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Eff Comm (pass),2015/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Progr Methd (pass),2016/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Eng 1 (pass),2016/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Elect & Mag (pass),2016/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Stat Analys (pass),2016/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Diff Ec & Num Meth (pass),2016/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Comp Struc (pass),2016/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Syst Eng (pass),2016/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Progr Parad (pass),2016/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Algorithms (pass),2016/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Fund Econ (pass),2016/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Eng 2 (pass),2016/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,SoftEng Fund (pass),2017/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Proj Eval&Manag (pass),2017/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Inf Sys (pass),2017/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,DB Design (pass),2017/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Comp Org (pass),2017/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Eng 3 (pass),2017/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Inf & Soc (pass),2017/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Inf Adm & Manag (pass),2017/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,SoftEng Technq (pass),2017/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Op Sys (pass),2017/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,DB Workshop (pass),2017/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Comp Net (pass),2017/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Elective (pass),2017/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Eng 4 (pass),2018/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,SoftEng Proj (pass),2018/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Seminar (pass),2018/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Elective (pass),2018/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Elective (pass),2018/1,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3453,Deg Work (pass),2018/2,True,True,False,no,2015,2,chilean,1,academic excellence,1,2014,high,high,high,medium,,low,3,5,4,13,114,87
+FING-3817,Phy 1 (pass),2016/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Intro Eng (pass),2016/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,IPD Workshop (pass),2016/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Std Methods (pass),2016/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Cal 1 (pass),2016/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Alg 1 (pass),2016/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Phy 2 (pass),2016/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Fund Progr (pass),2016/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Alg 2 (pass),2016/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Cal 2 (pass),2016/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Chemistry (pass),2016/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Eff Comm (pass),2017/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Diff Ec & Num Meth (pass),2017/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Eng 1 (pass),2017/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Stat Analys (pass),2017/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Elect & Mag (pass),2017/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Progr Methd (pass),2017/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Comp Struc (pass),2017/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Fund Econ (pass),2017/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Eng 2 (pass),2017/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Progr Parad (fail),2017/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Algorithms (fail),2017/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Syst Eng (pass),2017/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Eng 3 (pass),2018/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Progr Parad (pass),2018/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Inf Sys (pass),2018/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Algorithms (pass),2018/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Proj Eval&Manag (pass),2018/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Inf Adm & Manag (pass),2018/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,DB Design (pass),2018/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Comp Org (pass),2018/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,SoftEng Fund (pass),2018/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Eng 4 (pass),2018/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,DB Workshop (pass),2019/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Op Sys (pass),2019/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Comp Net (pass),2019/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,SoftEng Technq (pass),2019/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Elective (pass),2019/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Seminar (pass),2019/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Inf & Soc (pass),2019/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,SoftEng Proj (pass),2019/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Elective (pass),2019/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Elective (pass),2019/2,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-3817,Deg Work (pass),2020/1,True,True,False,no,2016,2,chilean,2,,1,2014,low,medium,high,medium,high,low,3,4,3,13,88,102
+FING-5757,Phy 1 (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Intro Eng (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,IPD Workshop (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Std Methods (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Cal 1 (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Alg 1 (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Fund Progr (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Alg 2 (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Phy 2 (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Cal 2 (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Chemistry (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Progr Methd (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Diff Ec & Num Meth (fail),2017/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Eff Comm (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Eng 1 (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Stat Analys (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Elect & Mag (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Comp Struc (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Fund Econ (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Progr Parad (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Algorithms (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Syst Eng (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Diff Ec & Num Meth (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,SoftEng Fund (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,DB Design (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Inf Sys (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Proj Eval&Manag (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Inf & Soc (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Comp Org (fail),2018/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Inf Adm & Manag (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,SoftEng Technq (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Comp Org (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,DB Workshop (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Eng 2 (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Elective (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Elective (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Op Sys (fail),2019/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Elective (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Eng 3 (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Eng 4 (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Comp Net (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Seminar (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Op Sys (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,Deg Work (pass),2020/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-5757,SoftEng Proj (pass),2020/1,True,True,False,no,2016,2,chilean,1,,1,2009,medium,medium,medium,high,,high,1,0,3,13,66,109
+FING-6484,Eff Comm (pass),2016/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Std Methods (pass),2016/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Stat Analys (pass),2016/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Phy 2 (pass),2016/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Diff Ec & Num Meth (pass),2016/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Elect & Mag (pass),2016/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Syst Eng (pass),2016/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Progr Methd (pass),2016/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Inf & Soc (pass),2016/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Fund Econ (pass),2017/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Eng 1 (pass),2017/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Comp Struc (pass),2017/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Progr Parad (fail),2017/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Comp Org (pass),2017/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Eng 2 (pass),2017/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Progr Parad (pass),2017/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Inf Sys (pass),2017/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Eng 3 (pass),2018/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Op Sys (fail),2018/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,DB Design (pass),2018/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,SoftEng Fund (pass),2018/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Proj Eval&Manag (pass),2018/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,DB Workshop (pass),2018/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Inf Adm & Manag (pass),2018/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,SoftEng Technq (pass),2018/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Comp Net (pass),2018/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Op Sys (fail),2018/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Eng 4 (pass),2018/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Elective (pass),2019/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Op Sys (pass),2019/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Elective (pass),2019/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Elective (pass),2019/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Seminar (pass),2019/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,SoftEng Proj (pass),2019/2,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6484,Deg Work (pass),2020/1,True,True,False,no,2016,2,,,,,,,,,,,,,,,,,
+FING-6487,Phy 1 (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Intro Eng (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,IPD Workshop (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Std Methods (fail),2016/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Cal 1 (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Alg 1 (pass),2016/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Phy 2 (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Fund Progr (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Alg 2 (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Std Methods (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Cal 2 (pass),2016/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Chemistry (fail),2016/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Progr Methd (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Diff Ec & Num Meth (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Chemistry (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Stat Analys (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Elect & Mag (pass),2017/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Comp Struc (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Fund Econ (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Eff Comm (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Eng 1 (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Progr Parad (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Algorithms (pass),2017/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Syst Eng (fail),2017/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,DB Design (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Eng 2 (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,SoftEng Fund (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Syst Eng (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Proj Eval&Manag (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Comp Org (pass),2018/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Inf Adm & Manag (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,SoftEng Technq (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Comp Net (fail),2018/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Op Sys (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,DB Workshop (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Eng 3 (pass),2018/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Inf Sys (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Comp Net (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,SoftEng Proj (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Eng 4 (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Inf & Soc (pass),2019/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Elective (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Seminar (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Elective (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Elective (pass),2019/2,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-6487,Deg Work (pass),2020/1,True,True,False,no,2016,2,chilean,1,,1,2014,high,high,high,high,,high,0,0,3,6,94,23
+FING-695,Alg 1 (pass),2014/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Cal 1 (pass),2014/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,IPD Workshop (pass),2014/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Std Methods (pass),2014/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Phy 1 (pass),2014/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Intro Eng (pass),2014/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Fund Progr (pass),2014/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Cal 2 (pass),2014/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Alg 2 (pass),2014/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Chemistry (pass),2014/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Phy 2 (pass),2014/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Eff Comm (pass),2014/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Progr Methd (pass),2015/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Elect & Mag (pass),2015/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Stat Analys (pass),2015/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Eng 1 (pass),2015/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Diff Ec & Num Meth (pass),2015/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Fund Econ (fail),2015/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Progr Parad (pass),2015/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Algorithms (pass),2015/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Syst Eng (pass),2015/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Comp Struc (pass),2015/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Eng 2 (pass),2015/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,DB Design (pass),2016/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Inf Sys (pass),2016/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Comp Org (fail),2016/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Fund Econ (pass),2016/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,SoftEng Fund (pass),2016/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Op Sys (fail),2016/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Proj Eval&Manag (fail),2016/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Eng 3 (pass),2016/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,DB Workshop (pass),2016/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Inf & Soc (pass),2016/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Comp Org (pass),2016/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Op Sys (pass),2017/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Proj Eval&Manag (pass),2017/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Comp Net (pass),2017/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Elective (pass),2017/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Eng 4 (pass),2017/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Inf Adm & Manag (pass),2017/1,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Deg Work (pass),2017/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Seminar (pass),2017/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,SoftEng Technq (pass),2017/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,SoftEng Proj (pass),2017/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Elective (pass),2017/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-695,Elective (pass),2017/2,True,True,False,no,2014,2,chilean,1,,8,2013,medium,medium,high,medium,,high,,0,3,13,88,102
+FING-766,Std Methods (pass),2014/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Phy 1 (pass),2014/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Intro Eng (pass),2014/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Cal 1 (pass),2014/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Alg 1 (pass),2014/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,IPD Workshop (pass),2014/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Fund Progr (pass),2014/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Chemistry (pass),2014/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Phy 2 (pass),2014/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Cal 2 (pass),2014/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Alg 2 (pass),2014/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Progr Methd (pass),2015/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Stat Analys (fail),2015/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Eng 1 (pass),2015/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Elect & Mag (pass),2015/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Diff Ec & Num Meth (fail),2015/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Eng 2 (pass),2015/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Fund Econ (fail),2015/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Algorithms (pass),2015/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Comp Struc (pass),2015/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Stat Analys (pass),2015/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Diff Ec & Num Meth (pass),2015/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Comp Org (pass),2016/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Syst Eng (pass),2016/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Progr Parad (pass),2016/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Eng 3 (pass),2016/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Fund Econ (pass),2016/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Eff Comm (pass),2016/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Op Sys (pass),2016/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,DB Design (pass),2016/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Proj Eval&Manag (pass),2016/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Eng 4 (pass),2016/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,SoftEng Fund (pass),2016/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,DB Workshop (pass),2017/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Inf Sys (pass),2017/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Comp Net (pass),2017/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,SoftEng Technq (pass),2017/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Inf & Soc (pass),2017/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Inf Adm & Manag (pass),2017/1,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Seminar (pass),2017/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,SoftEng Proj (pass),2017/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Elective (pass),2017/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Elective (pass),2017/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Elective (pass),2017/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-766,Deg Work (pass),2018/2,True,True,False,no,2015,2,,,,,,,,,,,,,,,,,
+FING-9150,Cal 1 (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Alg 1 (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Phy 1 (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,IPD Workshop (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Intro Eng (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Std Methods (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Alg 1 (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Phy 1 (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Std Methods (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Intro Eng (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Cal 1 (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,IPD Workshop (pass),2018/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Cal 2 (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Alg 2 (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Phy 2 (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Fund Progr (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Chemistry (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Fund Progr (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Phy 2 (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Chemistry (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Cal 2 (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Alg 2 (pass),2018/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Stat Analys (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Elect & Mag (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Eff Comm (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Eng 1 (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Progr Methd (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Fund Econ (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Stat Analys (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Progr Methd (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Eng 1 (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Fund Econ (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Elect & Mag (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Eff Comm (pass),2019/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Eng 2 (pass),2019/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Progr Parad (pass),2019/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Intro Informatics (pass),2019/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Algorithms (pass),2019/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Comp Struc (pass),2019/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Diff Ec & Num Meth (pass),2019/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,DB Design (pass),2020/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Comp Org (pass),2020/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,SoftEng Fund (pass),2020/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Syst Eng (pass),2020/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Inf & Soc (pass),2020/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Eng 3 (pass),2020/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,DB Workshop (pass),2020/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Eng 4 (pass),2020/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Inf Sys (pass),2020/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,SoftEng Technq (pass),2020/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Proj Eval&Manag (pass),2020/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Inf Adm & Manag (pass),2021/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Op Sys (pass),2021/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Comp Net (pass),2021/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Elective (pass),2021/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Seminar (pass),2021/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Elective (pass),2021/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,SoftEng Proj (pass),2021/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Elective (pass),2021/2,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9150,Deg Work (pass),2022/1,True,True,False,yes,2019,1,,,,,,,,,,,,,,,,,
+FING-9600,Std Methods (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Alg 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Phy 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Intro Eng (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Cal 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,IPD Workshop (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Fund Progr (fail),2018/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Phy 2 (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Chemistry (fail),2018/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Cal 2 (fail),2018/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Alg 2 (fail),2018/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Cal 2 (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Alg 2 (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Fund Progr (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Eff Comm (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Chemistry (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Elect & Mag (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Eng 1 (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Progr Methd (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Inf & Soc (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Stat Analys (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Diff Ec & Num Meth (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Comp Struc (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Syst Eng (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Fund Econ (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Progr Parad (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Algorithms (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Eng 2 (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Comp Org (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Eng 3 (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,DB Design (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,SoftEng Fund (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Inf Sys (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Proj Eval&Manag (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Op Sys (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,DB Workshop (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,SoftEng Technq (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Inf Adm & Manag (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Comp Net (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Eng 4 (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Seminar (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Elective (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Elective (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,SoftEng Proj (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Elective (pass),2022/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9600,Deg Work (pass),2022/1,True,True,False,no,2018,2,chilean,1,,1,2017,low,low,high,high,,medium,1,0,3,13,114,67
+FING-9601,Std Methods (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Alg 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Phy 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Intro Eng (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Cal 1 (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,IPD Workshop (pass),2018/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Fund Progr (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Phy 2 (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Cal 2 (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Chemistry (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Alg 2 (pass),2018/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Stat Analys (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Diff Ec & Num Meth (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Progr Methd (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Eng 1 (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Fund Econ (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Elect & Mag (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Eff Comm (pass),2019/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Progr Parad (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Algorithms (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Syst Eng (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Inf & Soc (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Comp Struc (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Eng 2 (pass),2019/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,DB Design (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Comp Org (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,SoftEng Fund (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Proj Eval&Manag (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Inf Sys (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Elective (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Eng 3 (pass),2020/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,DB Workshop (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Eng 4 (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Comp Net (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Elective (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,SoftEng Technq (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Op Sys (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Inf Adm & Manag (pass),2020/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Seminar (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,SoftEng Proj (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Elective (pass),2021/1,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75
+FING-9601,Deg Work (pass),2021/2,True,True,False,no,2018,2,chilean,1,,1,2016,high,high,high,high,high,high,1,0,3,13,114,75

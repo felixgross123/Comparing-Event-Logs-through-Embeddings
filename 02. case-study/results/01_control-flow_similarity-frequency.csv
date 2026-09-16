@@ -1,0 +1,63 @@
+activity,cosine_similarity,freq on-time,freq late,mean_freq
+Intro Informatics (pass),0.0063078105,1,1,1.0
+Op Sys (fail),0.04821148,5,41,23.0
+Inf Adm & Manag (fail),0.084080644,1,2,1.5
+Alg 2 (fail),0.11502223,2,14,8.0
+Cal 1 (fail),0.13753855,1,49,25.0
+Chemistry (fail),0.22939558,3,38,20.5
+Diff Ec & Num Meth (fail),0.23379996,3,63,33.0
+Progr Methd (fail),0.23572768,1,44,22.5
+Syst Eng (fail),0.2750579,1,11,6.0
+Comp Net (fail),0.29333466,1,4,2.5
+Fund Progr (fail),0.29378638,1,27,14.0
+Comp Struc (fail),0.3415097,3,44,23.5
+DB Design (fail),0.36616227,1,14,7.5
+Elect & Mag (fail),0.36974883,1,56,28.5
+Comp Org (fail),0.37478572,4,42,23.0
+Proj Eval&Manag (fail),0.40239525,1,9,5.0
+Phy 2 (fail),0.44546372,1,25,13.0
+Intro Eng (pass),0.4522742,26,152,89.0
+Algorithms (fail),0.49470082,3,60,31.5
+Alg 2 (pass),0.50893044,26,154,90.0
+Fund Progr (pass),0.5360993,25,150,87.5
+Elective (pass),0.5459336,81,360,220.5
+Chemistry (pass),0.5577905,25,149,87.0
+Stat Analys (fail),0.55789804,6,68,37.0
+Phy 2 (pass),0.57708585,27,152,89.5
+Cal 1 (pass),0.5775575,24,149,86.5
+SoftEng Technq (pass),0.5816941,27,120,73.5
+Cal 2 (fail),0.5827687,5,34,19.5
+Fund Econ (fail),0.5880888,2,34,18.0
+Progr Parad (fail),0.601508,5,69,37.0
+Progr Methd (pass),0.6032679,28,147,87.5
+Std Methods (pass),0.6208122,27,153,90.0
+Algorithms (pass),0.6333932,25,136,80.5
+Progr Parad (pass),0.6388748,27,132,79.5
+Alg 1 (pass),0.6406806,25,151,88.0
+Syst Eng (pass),0.64879215,27,130,78.5
+Eng 1 (pass),0.66890854,27,153,90.0
+Comp Net (pass),0.681494,27,120,73.5
+Phy 1 (pass),0.6856504,25,153,89.0
+DB Workshop (pass),0.6865775,27,124,75.5
+Fund Econ (pass),0.6870001,27,147,87.0
+Eng 4 (pass),0.68846786,27,133,80.0
+Inf Sys (pass),0.69585454,27,120,73.5
+Eng 3 (pass),0.70084125,27,142,84.5
+DB Design (pass),0.70383877,27,127,77.0
+Elect & Mag (pass),0.7055101,27,146,86.5
+Eng 2 (pass),0.70695925,27,149,88.0
+Comp Org (pass),0.70711267,27,129,78.0
+Cal 2 (pass),0.7079946,25,150,87.5
+SoftEng Proj (pass),0.71865267,27,120,73.5
+Diff Ec & Num Meth (pass),0.73171747,27,125,76.0
+Comp Struc (pass),0.7468721,27,132,79.5
+SoftEng Fund (pass),0.7481871,27,126,76.5
+Eff Comm (pass),0.7497284,27,152,89.5
+Stat Analys (pass),0.7605891,28,143,85.5
+Inf Adm & Manag (pass),0.79496753,27,120,73.5
+Seminar (pass),0.79564893,27,120,73.5
+Proj Eval&Manag (pass),0.7982093,27,120,73.5
+Op Sys (pass),0.8125704,27,122,74.5
+IPD Workshop (pass),0.81581855,26,154,90.0
+Inf & Soc (pass),0.8498546,27,120,73.5
+Deg Work (pass),0.9892511,27,120,73.5
